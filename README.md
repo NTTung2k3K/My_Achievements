@@ -28,8 +28,8 @@ This repository serves as a structured way to document my personal and professio
 
 If you would like to connect, feel free to reach out via:
 
-- **Email**: [nttung2k3k@gmail.com](mailto:nttung2k3k@gmail.com)
-- **LinkedIn**: [Tùng Nguyễn Thanh](https://www.linkedin.com/in/nttungk/)
-- **GitHub**: [NTTung2k3K](https://github.com/NTTung2k3K)
+- **Email**: <a href="mailto:nttung2k3k@gmail.com" target="_blank">nttung2k3k@gmail.com</a>
+- **LinkedIn**: <a href="https://www.linkedin.com/in/nttungk/" target="_blank">Tùng Nguyễn Thanh</a>
+- **GitHub**: <a href="https://github.com/NTTung2k3K" target="_blank">NTTung2k3K</a>
 
 Thank you for visiting! 🚀
